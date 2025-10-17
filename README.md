@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zite Onwuekweikpe, and I build scalable AI solutions</h1>
+<h1 align="center">Hi, I'm Zite Onwuekweikpe. I build scalable AI solutions</h1>
 <h3 align="center">
 I’m a data professional passionate about transforming complex data into intelligent, scalable systems that drive measurable impact.  
 My work sits at the intersection of <strong>AI</strong>, <strong>data engineering</strong>, <strong>cloud solutions</strong>, and <strong>business intelligence</strong> — where innovation meets execution.
