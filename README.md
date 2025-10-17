@@ -104,10 +104,10 @@ My work sits at the intersection of <strong>AI</strong>, <strong>data engineerin
 <h3 align="left">📫 Connect with me:</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:zite.zeetay@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="https://www.linkedin.com/in/zite-onwuekweikpe/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
 </p>
