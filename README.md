@@ -18,7 +18,7 @@ My work sits at the intersection of <strong>AI</strong>, <strong>data engineerin
 
 ### 🏆 Highlights
 -  **Builder:** Always solving real problems with technology
--  **Innovator:** Youth Employ - Leading Technical & Innovative Initiatives
+-  **Innovator:** Leading Technical & Innovative Initiatives
 -  **Mentor:** Supporting aspiring data professionals at HNG Tech 
 
 ---
