@@ -17,9 +17,9 @@ My work sits at the intersection of <strong>AI</strong>, <strong>data engineerin
 ---
 
 ### 🏆 Highlights
-- 🎤 **Speaker:** Innovation for Future Africa (IFFA) Summit  
-- 📈 **Innovator:** Youth Employ - Leading Technical & Innovative Initiatives
-- 🤝 **Mentor:** Supporting aspiring data professionals at HNG Tech 
+-  **Builder:** Always solving real problems with technology
+-  **Innovator:** Youth Employ - Leading Technical & Innovative Initiatives
+-  **Mentor:** Supporting aspiring data professionals at HNG Tech 
 
 ---
 
@@ -86,7 +86,7 @@ My work sits at the intersection of <strong>AI</strong>, <strong>data engineerin
 
 ---
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, Ops, & Infrastructure
 <p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
