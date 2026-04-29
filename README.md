@@ -29,7 +29,7 @@ My work sits at the intersection of <strong>AI</strong>, <strong>data engineerin
 
 <table><tr>
 <td align="center" width="60"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/></a></td>
-<td align="center" width="60"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="bash"/></a></td>
+<td align="center" width="60"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="bash"/></a></td>
 <td align="center" width="60"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/></a></td>
 <td align="center" width="60"><a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="r"/></a></td>
 </tr></table>
