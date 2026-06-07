@@ -97,4 +97,4 @@ My work sits at the intersection of <strong>AI</strong>, <strong>data engineerin
 
 ---
 
-<h3 align="center">"Data is only powerful when transformed into insights that move people and organizations forward." — Zite Onwuekweikpe</h3>
+<h3 align="center">"Data is only powerful when transformed into insights that move people and organizations forward." - Zite Onwuekweikpe</h3>
